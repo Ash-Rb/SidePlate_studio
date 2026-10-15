@@ -1,0 +1,17 @@
+{
+  "slug": "anime-warm",
+  "createdAt": "2026-10-15T22:02:44.996Z",
+  "name": "Anime warm",
+  "promptPrefix": "anime style illustration, clean line art, cel shading, soft warm palette",
+  "promptSuffix": "high quality, consistent character design",
+  "negative": "photorealistic, photo, 3d render, lowres, blurry, extra fingers, deformed hands, watermark, text, logo",
+  "notes": "Default look for Good Company. Tune the prefix until the cast feels right.",
+  "palette": [
+    "#F4E3C3",
+    "#E07A4F",
+    "#7A4E3A",
+    "#2F4858",
+    "#F7F3EC"
+  ],
+  "updatedAt": "2026-10-15T22:02:44.996Z"
+}

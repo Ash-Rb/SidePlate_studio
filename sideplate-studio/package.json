@@ -1,0 +1,15 @@
+{
+  "name": "sideplate-studio",
+  "version": "0.1.0",
+  "description": "Sideplate Studio: a local-first studio for AI-made series. Phase 1: the library.",
+  "type": "module",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "license": "MIT"
+}
